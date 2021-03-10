@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/header_home"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:gravity="left"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/label_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:fontFamily="@font/telex"
+        android:text="@string/register_title"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+
+    <Button
+        android:id="@+id/button_log_out"
+        android:visibility="invisible"
+        android:layout_alignEnd="@+id/label_title"
+        android:layout_marginRight="15dp"
+        android:textAllCaps="false"
+        android:layout_marginTop="15dp"
+        android:textSize="15sp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/button_logout"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/purple_deep"
+        android:background="@color/no_color"
+        android:onClick="logoutAccount"
+        android:text="@string/information_button_logout"/>
+
+</RelativeLayout>

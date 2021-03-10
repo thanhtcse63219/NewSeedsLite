@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">AHT Apartment</string>
+    <string name="default_notification_channel_id">AHT</string>
+    <string name="register_notification_channel_id">REGISTER</string>
+
+    <!-- topic push notification-->
+    <string name="topic_for_all_house">AHTAPARTMENT</string>
+    <string name="register_house_topic">register</string>
+
+    <!-- login activity-->
+    <string name="login_hint_edit_username">Tên đăng nhập</string>
+    <string name="login_hint_edit_password">Mật khẩu</string>
+    <string name="login_button_login">Đăng nhập</string>
+    <string name="login_button_register">Đăng kí tài khoản</string>
+    <string name="login_google">Google</string>
+    <string name="login_facebook">Facebook</string>
+
+    <!-- transaction fragment -->
+    <string name="transaction_access_wallet">Truy cập ví</string>
+    <string name="transaction_label_in_month">Trong tháng</string>
+    <string name="transaction_label_spend">Chi tiêu</string>
+    <string name="transaction_label_recharge">Nạp tiền</string>
+    <string name="transaction_label_history_bill">Lịch sử hoá đơn</string>
+    <string name="transaction_label_recently">Giao dịch gần đây</string>
+
+
+    <!-- receipt activity -->
+    <string name="receipt_title">Lịch sử hoá đơn</string>
+    <string name="receipt_access_detail">Thông tin chi tiết ></string>
+    <string name="receipt_status_unpaid">Chưa thanh toán</string>
+    <string name="receipt_status_pay_now">Thanh toán ngay</string>
+    <string name="receipt_status_paid">Đã thanh toán</string>
+
+
+    <!-- home activity-->
+    <string name="home_label_nav_transaction">Giao dịch</string>
+    <string name="home_label_nav_dashboard">Trung tâm</string>
+    <string name="home_label_nav_notification">Thông báo</string>
+    <string name="home_label_nav_me">Tài khoản</string>
+
+    <!-- account fragment-->
+    <string name="information_label_fullname">Nguyễn Duy Anh</string>
+    <string name="information_label_housecode">A-1-103</string>
+    <string name="information_label_individual">Cá nhân</string>
+    <string name="information_label_family">Gia đình</string>
+    <string name="information_label_wall">Tường</string>
+    <string name="information_button_logout">Đăng xuất</string>
+
+    <!-- item_list_button2 -->
+    <string name="dashboard_newsfeed_title">Mạng xã hội</string>
+    <string name="dashboard_newsfeed_desc">Thông tin hằng ngày dành cho cư dân AHT Apartment.</string>
+    <string name="dashboard_service_nearby_title">Dịch vụ quanh đây</string>
+    <string name="dashboard_service_nearby_desc">Tìm kiếm quán ăn, nhà hàng... thật dễ dàng.</string>
+    <string name="dashboard_fix_title">Sửa chữa</string>
+    <string name="dashboard_fix_desc">Tìm kiếm và yêu cầu sửa chữa nhanh chóng.</string>
+    <string name="dashboard_survey_title">Khảo sát</string>
+    <string name="dashboard_survey_desc">Góp phần nâng cao chất lượng cuộc sống của bạn.</string>
+
+    <!-- post -->
+    <string name="title_newsfeed">Bảng tin</string>
+    <string name="post_time">08/12/2019</string>
+    <string name="post_desc">Xin chào cô chú xin chào các bạn.</string>
+    <string name="post_count_like">123</string>
+    <string name="post_count_comment">20</string>
+    <string name="post_button_comment">Viết bình luận</string>
+
+    <!-- item_list_button1_1 -->
+    <string name="information_title_item1">Ví của tôi</string>
+    <string name="information_desc_item1">Thanh toán dễ dàng, không dùng tiền mặt.</string>
+    <string name="information_title_item2">Thông tin</string>
+    <string name="information_desc_item2">Xem và chỉnh sửa thông tin cá nhân.</string>
+    <string name="information_title_item5">Tường</string>
+    <string name="information_desc_item5">Truy cập các bài viết cá nhân.</string>
+
+    <!-- item_list_button1_2 -->
+    <string name="information_title_item3">Thành viên</string>
+    <string name="information_desc_item3">Thông tin thành viên gia đình.</string>
+    <string name="information_title_item4">Hoạt động</string>
+    <string name="information_desc_item4">Hoạt động của gia đình bạn.</string>
+    <string name="information_title_item6">Quét mã QR</string>
+    <string name="information_desc_item6">Quét mã và đăng kí thành viên nhanh chóng.</string>
+
+    <!-- wallet activity -->
+    <string name="wallet_title_money_in_wallet">Số dư trong ví</string>
+    <string name="wallet_money_in_wallet">25490000</string>
+    <string name="wallet_currency_unit">VND</string>
+    <string name="wallet_title_debt">Chưa thanh toán</string>
+    <string name="wallet_history_tran_value">12540000</string>
+    <string name="wallet_title_pay_now">Thanh toán ngay</string>
+    <string name="wallet_title_recharge">Nạp tiền vào ví</string>
+    <string name="wallet_title_history_trans">Lịch sử giao dịch</string>
+
+    <!-- member_family_activity -->
+    <string name="member_family_activity_title">Thành viên gia đình</string>
+    <string name="member_family_activity_button_access_wall">Truy cập trang cá nhân</string>
+    <string name="house_code_block_title">Toà</string>
+    <string name="house_code_floor_title">Tầng</string>
+    <string name="house_code_block">A</string>
+    <string name="house_code_floor">1</string>
+    <string name="member_count">6 Thành viên</string>
+
+    <!-- information activity -->
+    <string name="information_activity_title">Thông tin cá nhân</string>
+    <string name="information_activity_label_full_name">Họ Tên</string>
+    <string name="information_activity_label_house_code">Số nhà</string>
+    <string name="information_activity_label_householder">Chủ hộ</string>
+    <string name="information_activity_desc_householder">Hồ Quang Bảo</string>
+    <string name="information_activity_label_relation">Với chủ hộ</string>
+    <string name="information_activity_desc_relation">Con trai/Con gái</string>
+    <string name="information_activity_desc_birthday">16/09/1996</string>
+    <string name="information_activity_desc_job">Học sinh</string>
+    <string name="information_activity_desc_country">Hà Nội</string>
+    <string name="information_activity_label_email">Email</string>
+    <string name="information_activity_label_identity_card">CMND</string>
+    <string name="information_activity_desc_identity_card">272888999</string>
+    <string name="information_activity_desc_phone_number">0909090909</string>
+    <string name="information_activity_button_save">Cập nhật thông tin</string>
+    <string name="information_activity_button_cancel">Huỷ</string>
+
+    <!-- register activity-->
+    <string name="register_title">Đăng kí</string>
+    <string name="bundle_key_email">bundle_email_register</string>
+    <string name="bundle_key_firstname">bundle_first_register</string>
+    <string name="bundle_key_lastname">bundle_lastname_register</string>
+    <string name="bundle_key_birthdate">bundle_birthdate_register</string>
+    <string name="bundle_key_phone">bundle_phone_register</string>
+    <string name="bundle_key_country">bundle_country_register</string>
+    <string name="bundle_key_job">bundle_job_register</string>
+    <string name="bundle_key_cif">bundle_cif_register</string>
+    <string name="bundle_key_gender">bundle_gender_register</string>
+    <string name="bundle_key_relationship">bundle_relationship_register</string>
+
+    <!-- register_info -->
+    <string name="register_label_email">Email*</string>
+    <string name="register_edit_email">Ví dụ: example@gmail.com</string>
+    <string name="register_label_fullname">Họ và Tên*</string>
+    <string name="register_edit_first_name">Tên</string>
+    <string name="register_edit_last_name">Họ</string>
+    <string name="register_label_gender">Giới tính</string>
+    <string name="register_select1_gender">Nam</string>
+    <string name="register_select2_gender">Nữ</string>
+    <string name="register_label_birthday">Ngày sinh</string>
+    <string name="register_button_birthday">Ngày/Tháng/Năm</string>
+    <string name="register_label_phone">Số điện thoại</string>
+    <string name="register_edit_phone">10 chữ số</string>
+    <string name="register_label_country">Nguyên quán</string>
+    <string name="register_edit_country">Ví dụ: Hà Nội</string>
+    <string name="register_label_job">Nghề nghiệp</string>
+    <string name="register_edit_job">Ví dụ: Công nhân viên chức</string>
+    <string name="register_label_relationship">Quan hệ với chủ hộ*</string>
+    <string name="register_label_identity_card">CMND*</string>
+    <string name="register_edit_identity_card">Số chứng minh thư/Thẻ căn cước</string>
+    <string name="register_button_next">Tiếp</string>
+
+    <!-- register_image -->
+    <string name="register2_label_fullname">Nguyễn Duy Anh</string>
+    <string name="register2_label_email">duyanhnguyen@gmail.com</string>
+    <string name="register2_button_edit_avatar">Sửa ảnh đại diện</string>
+    <string name="register2_button_scan_identity_card">Quét Chứng minh thư/Thẻ căn cước</string>
+    <string name="register2_button_generate">Tạo mã QR</string>
+
+    <!-- register field -->
+    <string name="register_email">email</string>
+    <string name="register_first_name">firstname</string>
+    <string name="register_last_name">lastname</string>
+    <string name="register_birthdate">birthdate</string>
+    <string name="register_phone">phone</string>
+    <string name="register_country">country</string>
+    <string name="register_job">job</string>
+    <string name="register_cif">identity_card_number</string>
+    <string name="register_gender">gender</string>
+    <string name="register_relationship">relationship</string>
+    <string name="register_path_avatar">avatar_path_image</string>
+    <string name="register_path_cif">cif_path_image</string>
+
+    <!-- Notice -->
+    <string name="notice_register_1">Lưu ý: Các field có dấu (*) bắt buộc người dùng phải nhập chính xác để hoàn thành các bước đăng kí sau.</string>
+    <string name="notice_register_2">Lưu ý: Để tạo được mã QR Code, người dùng phải quét Chứng minh thư/Thẻ căn cước.</string>
+
+    <!-- Shared Preferences info-->
+    <string name="shared_info">info_loged_shared</string>
+    <string name="key_user_id">user_id</string>
+    <string name="key_email">email</string>
+    <string name="key_phone">phone</string>
+    <string name="key_role_id">role</string>
+    <string name="key_house_id">house</string>
+    <string name="key_house_name">house_name</string>
+    <string name="key_house_money">house_money</string>
+    <string name="key_profile_image">profile_image</string>
+    <string name="key_birthdate">birthdate</string>
+    <string name="key_cif">cif</string>
+    <string name="key_cif_image">cif_image</string>
+    <string name="key_gender">gender</string>
+    <string name="key_job">job</string>
+    <string name="key_home">home</string>
+    <string name="key_first_name">first_name</string>
+    <string name="key_last_name">last_name</string>
+    <string name="key_create_date">create_date</string>
+    <string name="key_last_modified">last_modified</string>
+    <string name="key_family">family</string>
+
+    <!-- Shared Preferences info-->
+    <string name="shared_register">register_shared</string>
+    <string name="key_register_email">key_register_email</string>
+    <string name="key_register_avatar">key_register_avatar</string>
+    <string name="key_register_avatar_path">key_register_avatar_path</string>
+    <string name="key_register_cif">key_register_cif</string>
+    <string name="key_register_cif_path">key_register_cif_path</string>
+
+    <!-- error -->
+    <string name="login_error">Đăng nhập thất bại.\nVui lòng đăng ký tài khoản trước khi đăng nhập</string>
+    <string name="login_network_error">Đăng nhập thất bại.\nVui lòng kiểm tra lại kết nối mạng</string>
+    <string name="register_error">Đăng ký thất bại.\n Vui lòng kiểm tra lại kết nối mạng</string>
+    <string name="update_data_error">Cập nhật thất bại.\n Vui lòng kiểm tra lại dữ liệu</string>
+    <string name="update_network_error">Cập nhật thất bại.\n Vui lòng kiểm tra lại kết nối mạng</string>
+    <string name="update_avatar_fail">Cập nhật avatar thất bại</string>
+    <string name="update_cif_fail">Cập nhật cmnd thất bại</string>
+
+    <!-- success -->
+    <string name="register_success">Đăng ký thành công</string>
+    <string name="update_success">Cập nhật thành công</string>
+    <string name="update_avatar_success">Cập nhật avatar thành công</string>
+    <string name="update_cif_success">Cập nhật cmnd thành công</string>
+</resources>

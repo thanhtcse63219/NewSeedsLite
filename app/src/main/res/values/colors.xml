@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_holder_login">#888888</color>
+    <color name="gray_unselect_icon">#B6B6B6</color>
+    <color name="black">#000000</color>
+    <color name="blue_app">#0A84FF</color>
+    <color name="no_color">#00000000</color>
+    <color name="gray_reg_frame">#F1F0F0</color>
+    <color name="blue_hover">#9ACCFF</color>
+    <color name="start_gradient">#fa57c1</color>
+    <color name="end_gradient">#69a6f9</color>
+    <color name="black_trans">#4D000000</color>
+    <color name="wallet_gradient1">#FC5E5A</color>
+    <color name="wallet_gradient2">#3A94F8</color>
+    <color name="wallet_gradient3">#21C937</color>
+    <color name="card_gradient1">#F3F1F2</color>
+    <color name="card_gradient2">#EAE8E9</color>
+    <color name="card_gradient3">#D7D5D6</color>
+    <color name="black_trans2">#80000000</color>
+    <color name="purple">#A7A7F5</color>
+    <color name="purple_deep">#6161AF</color>
+    <color name="purple_mid">#7D7DCA</color>
+    <color name="blue1">#43BFDA</color>
+    <color name="blue2">#569FF7</color>
+    <color name="orange">#FCB664</color>
+    <color name="blue_facebook">#1877F2</color>
+    <color name="red_google">#DC4E41</color>
+    <color name="purple_strong">#972EFE</color>
+    <color name="blue_strong">#0D72FF</color>
+</resources>
